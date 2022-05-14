@@ -1,0 +1,7 @@
+# Environments
+venv
+.vscode
+
+# Python
+__pycache__
+*.pyc
