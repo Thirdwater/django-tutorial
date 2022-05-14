@@ -5,3 +5,10 @@
 ```shell
 pip install -r requirements.txt
 ```
+
+
+## Development
+
+```shell
+pre-commit install
+```
