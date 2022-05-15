@@ -6,6 +6,16 @@
 
 #### Environment
 
+- Create an environment file
+
+```
+# .env
+DJANGO_SECRET_KEY = some-django-secret-key-123AJDKFbdsfjwiebAFiaj932
+DJANGO_DEBUG = True
+```
+
+- Create a python virtual environment
+
 ```shell
 python3 -m venv venv
 source venv/bin/activate

@@ -1,11 +1,11 @@
 # Environments
+.env
 venv
 .vscode
 
 # Python
 __pycache__
 *.pyc
-.mypy_cache
 
 # Django
 *.sqlite3
